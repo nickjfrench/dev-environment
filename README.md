@@ -1,5 +1,8 @@
-# Development Environment
-## CLI Tools
+# Tools and Software
+This repo isn't specific to development, instead it lists the tools I often have to reinstall whenever I setup new systems.
+
+## Development Environment
+### CLI Tools
 Either Macos or Windows WSL2 Ubuntu.
 - ZSH: either `brew install zsh` or `sudo apt-get install zsh`
 - [Oh my Zsh](https://ohmyz.sh/#install)
@@ -10,5 +13,10 @@ Either Macos or Windows WSL2 Ubuntu.
 - [1Password CLI](https://developer.1password.com/docs/cli/get-started/) - Issues when installed on WSL2
 - Git
 
-## Software
+### Software
 - VSCode
+
+## MacOS Must Have
+- AltTab
+- Charmstone
+- Rectangle
