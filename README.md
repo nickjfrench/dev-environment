@@ -1,7 +1,6 @@
 # Development Environment
-Either Macos or Windows WSL2 Ubuntu.
-
 ## CLI Tools
+Either Macos or Windows WSL2 Ubuntu.
 - ZSH: either `brew install zsh` or `sudo apt-get install zsh`
 - [Oh my Zsh](https://ohmyz.sh/#install)
 - [PowerLevel 10k Theme](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#installation) - Including the Meslo Fonts
